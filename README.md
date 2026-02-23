@@ -1,5 +1,4 @@
-# Author
-Remy Frederick
+# Author: Remy Frederick
 
 # NN_Project — Next-Region Prediction (Optimization Study)
 
